@@ -1,3 +1,16 @@
+#jinzhao
+data/
+.DS_Store
+.idea/
+fastText
+*/.DS_Store
+.ipynb_checkpoints
+cnn_output
+viz_bert/bertviz/
+new_repo_data.zip
+*.sh
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

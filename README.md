@@ -1,1 +1,1 @@
-# Political_Stance_Prediction
+# Political-Stance-Prediction

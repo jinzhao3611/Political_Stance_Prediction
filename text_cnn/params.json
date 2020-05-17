@@ -1,0 +1,14 @@
+{
+  "CNN": {
+    "class_num": 3,
+    "max_sent_len": 30,
+    "embed_dim": 300,
+    "batch_size": 64,
+    "lr": 0.1,
+    "steps": 10000,
+    "filter_nums": 100,
+    "filter_size": [3, 4, 5],
+    "dropout": 0.5,
+    "regularizer_norm": 0.01
+  }
+}
