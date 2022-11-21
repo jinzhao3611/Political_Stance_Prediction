@@ -13,7 +13,7 @@ pandas==1.0.3
 scikit-learn==0.23.0
 torch==1.5.0
 transformers==2.9.1
-tensorflow==2.2.0
+tensorflow==2.9.3
 lime==0.2.0.0
 fast-bert==1.7.1
 eli5==0.10.1
